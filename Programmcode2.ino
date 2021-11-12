@@ -8,12 +8,12 @@
 
 
 //Wlan
-const char ssid = "Willan";
-const char password = "35580199024334574582";
+const char ssid = "WLAN NAME";
+const char password = "WLAN PASSWORT";
 
 //Telegram 
-#define botschlussel "2049642450:AAEelfj5jhgITMlbN5USnfA4S62-zjxrd5A"
-#define userID "220972468"
+#define botschlussel "BOTSCHLÜSSEL
+#define userID "USERID"
 
 //Lüfter
 const int lüfter = 14;
